@@ -1,2 +1,2 @@
 # Third-assignment
-Link to assignment: dennisstasen.github.io/thirdassignment
+Link to assignment: dennisstassen.github.io/thirdassignment
